@@ -33,6 +33,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - Shadcn table component with server-side sorting, filtering, and paginationPrisma..
 - [mendable-nextjs-chatbot](https://github.com/mendableai/mendable-nextjs-chatbot) - Next.js Starter Template for building chatbots with Mendable.
 - [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+- [DOB picker](https://gist.github.com/tanishqsh/6e5284b36c29c0e2effc6e187c8f911a) - Styled year/month dropdown in the calendar 
 
 ## Contributing
 
