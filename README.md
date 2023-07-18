@@ -1,6 +1,6 @@
 # Awesome shadcn/ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-[<img src="./logo.svg" align="right" width="250">](https://ui.shadcn.com/)
+[<img src="./logo.svg" align="right" width="200">](https://ui.shadcn.com/)
 
 > Curated list of resources: books, videos, articles about using shadcn/ui.
 
