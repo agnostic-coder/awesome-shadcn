@@ -13,8 +13,9 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Awesome shadcn/ui ](#awesome-shadcn--)
   - [Contents](#contents)
   - [Community](#community)
-  - [Articles](#articles)
   - [Apps](#apps)
+  - [Libs and Components](#libs)
+  - [Boilerplates](#boilerplates)
   - [Contributing](#contributing)
 
 ## Community
@@ -23,17 +24,20 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [GitHub discussions for shadcn/ui](https://github.com/shadcn/ui/discussions)
 
 
-## Articles
-
-
 ## Apps
 - [resume-gpt](https://github.com/nphivu414/resume-gpt) Resume GPT helps you create a perfect resume in seconds and land your dream job.
 - [shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [thr](https://github.com/ishaan1013/thr) - A clone of Meta's new app using Next.js server components, Vercel Postgres, shadcn UI, Clerk, and Prisma.
+
+
+## Libs and Components
 - [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - Shadcn table component with server-side sorting, filtering, and paginationPrisma..
-- [mendable-nextjs-chatbot](https://github.com/mendableai/mendable-nextjs-chatbot) - Next.js Starter Template for building chatbots with Mendable.
-- [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [DOB picker](https://gist.github.com/tanishqsh/6e5284b36c29c0e2effc6e187c8f911a) - Styled year/month dropdown in the calendar 
+
+## Boilerplates
+- [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+- [mendable-nextjs-chatbot](https://github.com/mendableai/mendable-nextjs-chatbot) - Next.js Starter Template for building chatbots with Mendable.
+
 
 ## Contributing
 
