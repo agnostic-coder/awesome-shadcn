@@ -29,11 +29,13 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI.
 - [thr](https://github.com/ishaan1013/thr) - A clone of Meta's new app using Next.js server components, Vercel Postgres, shadcn UI, Clerk, and Prisma.
 - [Motion Variants](https://github.com/chrisabdo/motionvariants) - A collection of handmade Framer Motion variants made for your next project.
+- [memomate-notetaker](https://github.com/ZevaGuillo/memomate-notetaker) An app for easy management of notes and topics
 
 
 ## Libs and Components
 - [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - Shadcn table component with server-side sorting, filtering, and paginationPrisma..
 - [DOB picker](https://gist.github.com/tanishqsh/6e5284b36c29c0e2effc6e187c8f911a) - Styled year/month dropdown in the calendar 
+- [Fancy Multi Select](https://craft.mxkaske.dev/post/fancy-multi-select) - The Multi Select Component is inspired by campsite.design's and cal.com's settings forms. 
 
 ## Boilerplates
 - [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
