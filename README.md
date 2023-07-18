@@ -2,7 +2,7 @@
 
 [<img src="./logo.svg" align="right" width="200">](https://ui.shadcn.com/)
 
-> Curated list of resources: books, videos, articles about using shadcn/ui.
+> Curated list of resources:  apps/tools/websites using shadcn/ui.
 
 [shadcn/ui](https://github.com/shadcn/ui): The React Framework.
 
