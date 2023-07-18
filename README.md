@@ -14,12 +14,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Contents](#contents)
   - [Community](#community)
   - [Articles](#articles)
-  - [Boilerplates](#boilerplates)
-  - [Extensions](#extensions)
   - [Apps](#apps)
-  - [Videos](#videos)
-  - [Projects(Beginner level)](#projectsbeginner-level)
-  
   - [Contributing](#contributing)
 
 ## Community
@@ -30,9 +25,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Articles
 
-## Boilerplates
-
-## Extensions
 
 ## Apps
 
