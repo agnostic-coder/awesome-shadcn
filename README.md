@@ -4,9 +4,9 @@
 
 > Curated list of resources:  apps/tools/websites using shadcn/ui.
 
-[shadcn/ui](https://github.com/shadcn/ui): The React Framework.
+[shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source..
 
-_List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd)._
+
 
 ## Contents
 
