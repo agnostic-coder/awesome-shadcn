@@ -31,6 +31,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [thr](https://github.com/ishaan1013/thr) - A clone of Meta's new app using Next.js server components, Vercel Postgres, shadcn UI, Clerk, and Prisma..
 - [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - Shadcn table component with server-side sorting, filtering, and paginationPrisma..
+- [mendable-nextjs-chatbot](https://github.com/mendableai/mendable-nextjs-chatbot) - Next.js Starter Template for building chatbots with Mendable
 
 ## Contributing
 
