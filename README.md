@@ -29,9 +29,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Apps
 - [resume-gpt](https://github.com/nphivu414/resume-gpt) Resume GPT helps you create a perfect resume in seconds and land your dream job.
 - [shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
-- [thr](https://github.com/ishaan1013/thr) - A clone of Meta's new app using Next.js server components, Vercel Postgres, shadcn UI, Clerk, and Prisma..
+- [thr](https://github.com/ishaan1013/thr) - A clone of Meta's new app using Next.js server components, Vercel Postgres, shadcn UI, Clerk, and Prisma.
 - [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - Shadcn table component with server-side sorting, filtering, and paginationPrisma..
-- [mendable-nextjs-chatbot](https://github.com/mendableai/mendable-nextjs-chatbot) - Next.js Starter Template for building chatbots with Mendable
+- [mendable-nextjs-chatbot](https://github.com/mendableai/mendable-nextjs-chatbot) - Next.js Starter Template for building chatbots with Mendable.
+- [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 
 ## Contributing
 
