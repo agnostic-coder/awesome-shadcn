@@ -1,10 +1,10 @@
 # Awesome shadcn/ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
+[<img src="./logo.svg" align="right" width="250">](https://ui.shadcn.com/)
 
 > Curated list of resources: books, videos, articles about using shadcn/ui.
 
-[shadcn/ui](https://github.com/vercel/next.js): The React Framework.
+[shadcn/ui](https://github.com/shadcn/ui): The React Framework.
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd)._
 
@@ -27,8 +27,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Community
 
-- [GitHub](https://github.com/vercel/next.js)
-- [GitHub discussions for shadcn/ui](https://github.com/vercel/next.js/discussions)
+- [GitHub](https://github.com/shadcn/ui)
+- [GitHub discussions for shadcn/ui](https://github.com/shadcn/ui/discussions)
 
 ## Essentials
 
@@ -257,3 +257,4 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+****
