@@ -29,8 +29,10 @@
 - [shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI.
 - [thr](https://github.com/ishaan1013/thr) - A clone of Meta's new app using Next.js server components, Vercel Postgres, shadcn UI, Clerk, and Prisma.
 - [Motion Variants](https://github.com/chrisabdo/motionvariants) - A collection of handmade Framer Motion variants made for your next project.
-- [memomate-notetaker](https://github.com/ZevaGuillo/memomate-notetaker) An app for easy management of notes and topics
-
+- [memomate-notetaker](https://github.com/ZevaGuillo/memomate-notetaker) An app for easy management of notes and topics.
+- [gradient-picker](https://github.com/Illyism/gradient-picker) Fancy Gradient Picker, built with Shadcn UI, Radix UI and Tailwind CSS.
+- [openstatus](https://github.com/openstatushq/openstatus) The open-source status page.
+- [scribbly](https://github.com/subhamBharadwaz/scribbly) Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal.
 
 ## Libs and Components
 - [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - Shadcn table component with server-side sorting, filtering, and paginationPrisma..
